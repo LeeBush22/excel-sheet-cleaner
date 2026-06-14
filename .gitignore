@@ -1,8 +1,11 @@
 ﻿__pycache__/
 *.pyc
 
-excel/
-output/
+excel/*
+!excel/.gitkeep
+
+output/*
+!output/.gitkeep
 
 *.xls
 *.xlsx
