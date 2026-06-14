@@ -1,0 +1,12 @@
+﻿__pycache__/
+*.pyc
+
+excel/
+output/
+
+*.xls
+*.xlsx
+*.csv
+
+.DS_Store
+Thumbs.db
